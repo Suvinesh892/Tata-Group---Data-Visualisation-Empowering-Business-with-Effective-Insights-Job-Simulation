@@ -11,17 +11,17 @@ As part of the Tata Group's job simulation on data visualization, I developed an
 🔗[Top 10 Countries By Revenue & Quantity](#top-10-countries-by-revenue--quantity-excluding-uk)       
 🔗[Product-wise Sales Revenue vs Quantity Analysis](#Product-wise-Sales-Revenue-vs-Quantity-Analysis)       
 🔗[Product Performance Analysis](#Product-Performance-Analysis)     
-🔗[Sales Trend Analysis](#Sales-Trend-Analysis-(2011)-)      
+🔗[Sales Trend Analysis](#sales-trend-analysis-2011)     
 
 ## *Business Impact & Questions*
-[🔗Question Interest to CEO & CMO](#Question-Interest-to-CEO-&-CMO)       
-[🔗Key Analytical Questions & Visual Findings](#❓Key-Analytical-Questions-&-Visual-Findings❓)       
-[🔗Business Impact & Key Takeaways](#Business-Impact-&-Key-Takeaways)     
-[📌Understanding Customer Loyalty](##🧷1.-Understanding-Customer-Loyalty-&-Repeat-Purchases)        
-[📌Revenue from Returning Customers](##🧷2.-Revenue-from-Returning-Customers-–-A-Key-Driver-of-Business-Success)        
-[📌Evaluating Product Performance](##🧷3.-Evaluating-Product-Performance-–-What’s-Selling-&-What’s-Struggling)      
-[📌Market Trends](##🧷4.-Market-Trends-–-How-Three-Key-Countries-Performed)     
-🔗[The Bigger Picture – Why This Matters⁉️](##🧷The-Bigger-Picture-–-Why-This-Matters)
+[🔗Question Interest to CEO & CMO](#question-interest-to-ceo--cmo)  
+[🔗Key Analytical Questions & Visual Findings](#key-analytical-questions--visual-findings)  
+[🔗Business Impact & Key Takeaways](#business-impact--key-takeaways)  
+[📌Understanding Customer Loyalty](#understanding-customer-loyalty--repeat-purchases)  
+[📌Revenue from Returning Customers](#revenue-from-returning-customers--a-key-driver-of-business-success)  
+[📌Evaluating Product Performance](#evaluating-product-performance--whats-selling--whats-struggling)  
+[📌Market Trends](#market-trends--how-three-key-countries-performed)  
+[🔗The Bigger Picture – Why This Matters](#the-bigger-picture--why-this-matters)  
 
 
 ## **Skills Applied In This Simulation**
