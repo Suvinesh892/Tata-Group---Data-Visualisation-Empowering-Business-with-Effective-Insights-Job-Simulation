@@ -302,9 +302,9 @@ These findings help businesses make **data-backed decisions** instead of relying
 
 # 🔗Connect with Me
 
-📄[Get Resume]()  
+📄[Get Resume](https://drive.google.com/file/d/11WT2qrQPkXE4dklNmz62mhX11Fbpn_bu/view?usp=drive_link)  
 
-ℹ️[LinkedIn](hhttps://www.linkedin.com/in/suvinesh5)          
+ℹ️[LinkedIn](https://www.linkedin.com/in/suvinesh5)          
     
 📧[email](msuvinesh7@gmail.com)     
 
