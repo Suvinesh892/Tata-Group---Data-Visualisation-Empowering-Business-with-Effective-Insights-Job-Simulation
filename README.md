@@ -8,10 +8,10 @@ As part of the Tata Group's job simulation on data visualization, I developed an
 
 🔗[Line Chart for Revenue](#Line-Chart-for-Revenue-by-Year-2011)      
 🔗[Country Wise Performance By Sales](#Country-Wise-Performance-By-Sales)     
-🔗[Top 10 Countries By Revenue & Quantity](#Top-10-Countries-By-Revenue-&-Quantity-(Excluding-UK))        
+🔗[Top 10 Countries By Revenue & Quantity](#Top-10-Countries-By-Revenue-&-Quantity-Excluding-UK)        
 🔗[Product-wise Sales Revenue vs Quantity Analysis](#Product-wise-Sales-Revenue-vs-Quantity-Analysis)       
 🔗[Product Performance Analysis](#Product-Performance-Analysis)     
-🔗[Sales Trend Analysis](#Sales-Trend-Analysis-(2011))      
+🔗[Sales Trend Analysis](#Sales-Trend-Analysis-2011)      
 
 ## *Business Impact & Questions*
 [🔗Question Interest to CEO & CMO](#Question-Interest-to-CEO-&-CMO)       
